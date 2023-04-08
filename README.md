@@ -21,8 +21,14 @@ Ultralytics YOLOv8, the latest version of the acclaimed real-time object detecti
 
  In this repository the file named image_pred.py consists the code for segmenting the images, video_pred.py consists the code for segementing the objects in a video.
  
- The input used for the model are given below
+ The input used for the model are given below:
+ 
  ![car](https://user-images.githubusercontent.com/105503752/230726743-71ea2c8a-dfa8-46ed-8830-8fbdd9fc9090.jpg)
+ 
+ Output: 
+ 
+ ![car_op](https://user-images.githubusercontent.com/105503752/230726840-59c6659b-6388-44da-a898-1c757b3dc937.jpg)
+
  
  
 
